@@ -636,6 +636,16 @@
   .invest_decsript {
     margin-left: -50px; } }
 
+@media (max-width: 380px) {
+  .haeder_descript {
+    margin-left: 40px; }
+  .find_out {
+    margin-left: 40px !important; }
+  .accord_intro {
+    margin-top: 25px; }
+  .money {
+    margin-left: 50px; } }
+
 .burger {
   display: none;
   cursor: pointer;
